@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "padx",
+        "pady",
+        "textvariable",
+        "winnative",
+        "xpnative",
+        "darkgray",
+    ],
+    "python.analysis.typeCheckingMode": "off"
+}
